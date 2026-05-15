@@ -7,3 +7,9 @@ healthcare/docs/current
 __pycache__/
 dist/
 node_modules/
+.vscode/
+.vs/
+.idea/
+*.log
+*.bak
+*.tmp
